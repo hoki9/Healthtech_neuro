@@ -6,3 +6,8 @@ Case 1 - Heart Disease Classification
 -------------------------------------
 
 In this exercise we create an ANN to classify UCI Heart Disease -dataset.
+
+Case 2 - Pneumonia
+------------------
+
+In this exercise we create CNN models to classify pneumonia in chest x-ray images.
