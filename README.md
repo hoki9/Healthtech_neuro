@@ -11,3 +11,8 @@ Case 2 - Pneumonia
 ------------------
 
 In this exercise we create CNN models to classify pneumonia in chest x-ray images.
+
+Case 3 - Drug Reviews
+---------------------
+
+In this exercise we build a model to predict numerical ratings from textual drug reviews written by patients. This is done using text processing and a 1D CNN.
